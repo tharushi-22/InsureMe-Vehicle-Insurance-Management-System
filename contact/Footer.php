@@ -10,6 +10,7 @@
         <li><a href="../FAQ/terms.php">Terms and Conditions</a></li>
         <li><a href="../FAQ/PrivacyPolicy.php">Privacy Policy</a></li>
 		<li><a href="../FAQ/FAQ.php">FAQ</a></li>
+		<li><a href="../contact/inquiry.php">Inquires</a></li>
 		</ul>
 		</div>
 		
