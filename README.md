@@ -1,4 +1,4 @@
-🚗 InsureMe – Vehicle Insurance Management System | Y1S2 IWT Group Project
+# 🚗 InsureMe – Vehicle Insurance Management System
 
 **InsureMe** is a simple web-based Vehicle Insurance Management System developed using **HTML, CSS, JavaScript, PHP, MySQL**, and hosted locally via **XAMPP**.
 
@@ -6,7 +6,7 @@ It enables users to register, log in, manage their vehicles and insurance polici
 
 ---
 
-✨ **Core Features**
+## ✨ Core Features
 
 👤 **User Registration & Login**  
 – Users can create an account and log in securely  
@@ -26,7 +26,7 @@ It enables users to register, log in, manage their vehicles and insurance polici
 
 ---
 
-🛠️ **Technologies Used**
+## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
